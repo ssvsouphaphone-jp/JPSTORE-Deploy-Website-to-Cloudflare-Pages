@@ -1,2 +1,2 @@
 # JPSTORE-Deploy-Website-to-Cloudflare-Pages
-ຕ້ອງການ Deploy ເວັບໄຊຕ໌ JPSTORE ຂຶ້ນ Cloudflare Pages.  - ກຽມໄຟລ໌ index.html - ກວດສອບໂຄງສ້າງເວັບໄຊຕ໌ - ຕິດຕັ້ງ Hosting - ທົດສອບ URL ເວັບໄຊຕ໌ - ກຽມລະບົບ Database ແລະ Admin ສຳລັບຂັ້ນຕໍ່ໄປ  ໝາຍເຫດ: ນີ້ແມ່ນວຽກກຽມ Deploy; ຍັງບໍ່ແມ່ນການຢືນຢັນວ່າລະບົບພ້ອມຂາຍຈິງ.
+ຕ້ອງການ Deploy ເວັບໄຊຕ໌ JPSTORE ຂຶ້ນ Cloudflare Pages.  - ກຽມໄຟລ໌ index.html - ກວດສອບໂຄງສ້າງເວັບໄຊຕ໌ - ຕິດຕັ້ງ Hosting - ທົດສອບ URL ເວັບໄຊຕ໌ - ກຽມລະບົບ Database ແລະ Admin ສຳລັບຂັ້ນຕໍ່ໄປ  ໝາຍເຫດ: ນີ້ແມ່ນວຽກກຽມ Deploy; ຍັງບໍ່ແມ່ນການຢືນຢັນວ່າລະບົບພ້ອມຂາຍຈິງ. 
